@@ -16,7 +16,6 @@ Welcome to **ChatterBox**! This is a full-featured chat application built with m
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
